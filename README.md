@@ -6,8 +6,6 @@
  
  - 🎓 Graduated From Cairo University Bachelor of Management Information Systems
 
-<h3 align="left">Languages and Tools:</h3>
-
 ### 🛠 &nbsp;Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -21,11 +19,10 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/kareem-adel/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-kareem_adel-red?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/karim-adel-7164631b2/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-kareem_adel-red?style=for-the-badge&logo=linkedin"></a>
 
 <a href="https://github.com/kimoKhanKareem" target="_blank"><img src="https://img.shields.io/badge/Github-kimoKhanKareem-green?style=for-the-badge&logo=github"></a>
 
 <a href="mailto:kimo.khan.karim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kimo.khan.karim@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-
 
 <div align="center"> <img src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" /></div>
