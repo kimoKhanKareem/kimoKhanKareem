@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kareem Adel</h1>
-<h3 align="center">frontend developer from Egypt</h3>
+<h3 align="center">frontend developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
