@@ -28,4 +28,4 @@
 <a href="mailto:kimo.khan.karim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kimo.khan.karim@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
 
-<div align="center"> <img src="https://s3.us-west-2.amazonaws.com/assets.visualsbyimpulse.com/uploads/2021/09/29165100/PacMan.gif" /></div>
+<div align="center"> <img src="https://thumbs.gfycat.com/SlightWeepyElephantseal-size_restricted.gif" /></div>
