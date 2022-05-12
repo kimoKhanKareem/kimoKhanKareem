@@ -18,3 +18,14 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/kareem-adel/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-kareem_adel-red?style=for-the-badge&logo=linkedin"></a>
+
+<a href="https://github.com/kimoKhanKareem" target="_blank"><img src="https://img.shields.io/badge/Github-kimoKhanKareem-green?style=for-the-badge&logo=github"></a>
+
+<a href="mailto:kimo.khan.karim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kimo.khan.karim@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+
+
+<div align="center"> <img src="https://s3.us-west-2.amazonaws.com/assets.visualsbyimpulse.com/uploads/2021/09/29165100/PacMan.gif" /></div>
